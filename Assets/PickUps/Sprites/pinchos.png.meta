@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: bba34fbd87e987d4481b5e5d1f911b39
+timeCreated: 1495443218
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pinchos_0
+    21300002: pinchos_1
+    21300004: pinchos_2
+    21300006: pinchos_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pinchos_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 360
+        width: 252
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: -34}
+        - {x: -126, y: -59}
+        - {x: -126, y: -103}
+        - {x: -109, y: -116}
+        - {x: 111, y: -116}
+        - {x: 126, y: -110}
+        - {x: 126, y: -48}
+        - {x: 97, y: -34}
+      - - {x: 126, y: 66}
+        - {x: -99, y: 66}
+        - {x: -126, y: 44}
+        - {x: -126, y: -15}
+        - {x: -111, y: -18}
+        - {x: 105, y: -18}
+        - {x: 118, y: -11}
+        - {x: 126, y: -2}
+    - name: pinchos_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 361
+        width: 252
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119, y: -35}
+        - {x: -126, y: -52}
+        - {x: -126, y: -102}
+        - {x: -111, y: -116}
+        - {x: 126, y: -116}
+        - {x: 126, y: -35}
+      - - {x: 126, y: 65}
+        - {x: -99, y: 65}
+        - {x: -126, y: 43}
+        - {x: -126, y: -16}
+        - {x: -111, y: -19}
+        - {x: 105, y: -19}
+        - {x: 118, y: -12}
+        - {x: 126, y: -3}
+    - name: pinchos_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 40
+        width: 259
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.5, y: 86}
+        - {x: 75.5, y: 86}
+        - {x: 44.5, y: 59}
+        - {x: 12.5, y: 86}
+        - {x: -98.5, y: 86}
+        - {x: -122.5, y: 37}
+        - {x: -122.5, y: -23}
+        - {x: -110.5, y: -32}
+        - {x: -122.5, y: -62}
+        - {x: -122.5, y: -113}
+        - {x: -120.5, y: -115}
+        - {x: -115.5, y: -116}
+        - {x: 127.5, y: -116}
+        - {x: 129.5, y: -108}
+        - {x: 129.5, y: 47}
+    - name: pinchos_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 39
+        width: 252
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: 51}
+        - {x: 94, y: 116}
+        - {x: -88, y: 116}
+        - {x: -126, y: 40}
+        - {x: -126, y: -111}
+        - {x: -125, y: -114}
+        - {x: -114, y: -116}
+        - {x: 116, y: -116}
+        - {x: 121, y: -114}
+        - {x: 126, y: -101}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
